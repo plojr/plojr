@@ -1,6 +1,6 @@
 My name is Paulo and I'm currently an IT security analyst in Belo Horizonte, Brazil.
 
-I really like to code. Back to 1999, when I was in high school, a friend of mine gave me a tutorial of how to code in Pascal. I made some "writeln" and "readln" and I got thrilled with that. It was my first programming language. Since then, I learned C++, PHP, and some others. I've been a software engineer, professionally, for 5 years. Then I started working with information security and, naturally, I brought coding along.
+I really like to code. Back to 1999, when I was in high school, a friend of mine gave me a tutorial of how to code in Pascal. I made some "writeln" and "readln" and I got thrilled with that. It was my first programming language. Since then, I have learned C++, PHP, and some others. I've been a software engineer, professionally, for 5 years. Then I started working with information security and, naturally, I brought coding along.
 
 I have some hobbies: investing, chess, economics and running are some of them.
 
